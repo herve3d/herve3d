@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @herve3d
 - 👀 I’m interested in too many things
 - 🌱 I’m currently learning Wude of developers
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web 4.0
 - 📫 How to reach me ...
 - 🎪 https://herve3d.github.io/www/
 
